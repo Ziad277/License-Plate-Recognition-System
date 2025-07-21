@@ -17,10 +17,6 @@ This project is a MATLAB-based License Plate Recognition System (LPRS) built usi
 - **Image Processing Toolbox**
 - **Computer Vision Toolbox**
 
-## 📷 Demo
-
-![Demo Screenshot](demo_screenshot.png)  
-*Upload and detect Malaysian license plate numbers from images.*
 
 ## 📁 Project Structure
 
@@ -35,7 +31,3 @@ This project is a MATLAB-based License Plate Recognition System (LPRS) built usi
 2. Make sure Image Processing and Computer Vision Toolboxes are installed
 3. Run the `LPRS` class file
 4. Interact with the app to upload images and detect plates
-
-## 🔍 Example Plate Format
-
-The system supports common Malaysian license formats such as:
